@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import eye from "../assets/images/eye.png";
-import hidden from "../assets/images/hidden.png";
+import eye from "../assets/Images/eye.png";
+import hidden from "../assets/Images/hidden.png";
 import { ToastContainer, toast, Slide } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
