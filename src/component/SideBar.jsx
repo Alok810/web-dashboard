@@ -14,7 +14,7 @@ function SideBar() {
     >
 <div className="py-3 text-center border-b-2 border-gray-200 ">
   <NavLink to="/">
-    <div className="mx-auto w-25 h-25 rounded-2xl shadow-2xl z-10 pointer-events-none"> {/* Slightly smaller size */}
+    <div className="mx-auto w-25 h-25 rounded-2xl shadow-lg z-10 pointer-events-none"> {/* Slightly smaller size */}
       <DotLottieReact
         src={logoLottie}
         autoplay

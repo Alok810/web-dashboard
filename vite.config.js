@@ -5,6 +5,7 @@ export default defineConfig({
   plugins: [react()],
   assetsInclude: ["**/*.lottie"], // ✅ Add support for .lottie assets
   server: {
+    
     proxy: {
       "/zap": {
         target: "http://localhost:8080",
