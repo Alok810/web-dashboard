@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import EyeIcon from "../assets/images/eye.png";
-import HiddenIcon from "../assets/images/hidden.png";
+import EyeIcon from "../assets/Images/eye.png";
+import HiddenIcon from "../assets/Images/hidden.png";
 import ReCAPTCHA from "react-google-recaptcha";
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
